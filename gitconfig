@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = houdartloic@gmail.com
+	name = loic houdart
